@@ -1,0 +1,17 @@
+platform :ios, “7.0”
+target 'ListenNightSkyFM' do
+
+pod 'FDFullscreenPopGesture'
+pod 'SDCycleScrollView'
+pod 'MMDrawerController'
+pod "AFNetworking"
+pod ”SDWebImage“
+pod “JSONModel”
+pod “MJRefresh”
+pod "MBProgressHUD"
+pod "FMDB"
+pod 'MMDrawerController'
+pod 'Masonry', '0.5.3'
+pod 'UMengSocial', '~> 4.4’
+
+end

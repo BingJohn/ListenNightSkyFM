@@ -1,0 +1,72 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - FDFullscreenPopGesture (1.1)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - JSONModel (1.7.0)
+  - Masonry (0.5.3)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - MMDrawerController (0.6.0):
+    - MMDrawerController/Core (= 0.6.0)
+    - MMDrawerController/MMDrawerBarButtonItem (= 0.6.0)
+    - MMDrawerController/MMDrawerVisualStates (= 0.6.0)
+    - MMDrawerController/Subclass (= 0.6.0)
+  - MMDrawerController/Core (0.6.0)
+  - MMDrawerController/MMDrawerBarButtonItem (0.6.0):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.6.0):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.6.0):
+    - MMDrawerController/Core
+  - SDCycleScrollView (1.66):
+    - SDWebImage (~> 4.0.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - UMengSocial (4.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - FDFullscreenPopGesture
+  - FMDB
+  - JSONModel
+  - Masonry (= 0.5.3)
+  - MBProgressHUD
+  - MJRefresh
+  - MMDrawerController
+  - SDCycleScrollView
+  - SDWebImage
+  - UMengSocial (~> 4.4)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  Masonry: 9f515466afe48632562342a40a1c224071a1a022
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MMDrawerController: e3a54a5570388463ad3b36975251575b50c4e1a0
+  SDCycleScrollView: e3ade90e9b3159bec04330b208fbfd81c3f3b671
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  UMengSocial: aba7296602310385114d82c255539a7bef3b7ab0
+
+PODFILE CHECKSUM: c61871bc01a7afbe66c41d58d595b9803d5532ce
+
+COCOAPODS: 1.2.0.beta.1
